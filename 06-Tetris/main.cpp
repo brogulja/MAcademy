@@ -9,11 +9,11 @@
 // int MojMejn()
 int main()
 {
-	POINT p; p.x = 11; p.y = 55;
-	std::vector <POINT> * items = new std::vector<POINT> (128);
-	items->push_back(p);
-	items->clear();
-	items->push_back(p);
+	//POINT p; p.x = 11; p.y = 55;
+	//std::vector <POINT> * items = new std::vector<POINT> (128);
+	//items->push_back(p);
+	//items->clear();
+	//items->push_back(p);
 
 	TEngine app;
     return	app.Run();	
