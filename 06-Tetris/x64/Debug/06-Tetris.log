@@ -1,9 +1,0 @@
-﻿  BlockBase.cpp
-  main.cpp
-  TBase.cpp
-  TEngine.cpp
-C:\AppsWork\RB_CppTecaj\06-Tetris\TEngine.cpp(90,2): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
-C:\AppsWork\RB_CppTecaj\06-Tetris\TEngine.cpp(90,2): warning C4154: deletion of an array expression; conversion to pointer supplied
-C:\AppsWork\RB_CppTecaj\06-Tetris\TEngine.cpp(230,2): warning C4102: 'NormalWork': unreferenced label
-  Generating Code...
-  06-Tetris.vcxproj -> C:\AppsWork\RB_CppTecaj\02-KrizicKruzic\x64\Debug\06-Tetris.exe
